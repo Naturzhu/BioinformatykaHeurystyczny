@@ -1,0 +1,28 @@
+<dna key="9805721" length="16" start="CTTT">
+<script/>
+<script/>
+<!--  [number of matches] -> [intensity signal] 
+  0  ->  0 
+  1  -> 1-3
+  2  -> 3-5
+  3  -> 5-7
+  4  -> 6-8
+  5  -> 7-8
+  6  -> 7-9
+  7  -> 8-9
+  8  -> 8-9 
+  9+ ->  9 
+ -->
+<probe pattern="NNNN">
+<cell>AAGG</cell>
+<cell>AGGC</cell>
+<cell>CAAG</cell>
+<cell>CCAA</cell>
+<cell>GGAG</cell>
+<cell>GGCC</cell>
+<cell>GGGA</cell>
+<cell>TGGG</cell>
+<cell>TTGG</cell>
+<cell>TTTG</cell>
+</probe>
+</dna>
